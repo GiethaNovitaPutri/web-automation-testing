@@ -1,0 +1,21 @@
+{
+  "name": "web-automation-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiethaNovitaPutri/web-automation-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GiethaNovitaPutri/web-automation-testing/issues"
+  },
+  "homepage": "https://github.com/GiethaNovitaPutri/web-automation-testing#readme"
+}
